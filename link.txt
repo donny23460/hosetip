@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>구매 페이지</title>
+</head>
+<body style="margin: 0; text-align: center;">
+    <a href="https://www.coupang.com/vp/products/8603986391?vendorItemId=91961387257&isAddedCart=" target="_blank">
+        <img src="https://maechorom04.speedgabia.com/housetip/products/PureTrip/ss/PureTrip_0.jpg" 
+             alt="구매하기" style="width: 100%; height: auto;">
+    </a>
+</body>
+</html>
